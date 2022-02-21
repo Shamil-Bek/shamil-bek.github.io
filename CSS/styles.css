@@ -1,0 +1,53 @@
+
+.navbar-brand{
+font-size: 2rem;
+color: white;
+margin-left: 10px;
+text-decoration: none;
+float: left;
+}
+
+.navbar-header a{
+  text-decoration: none;
+  color: black;
+  text-align: right;
+}
+
+.navbar-posit{
+  position: relative;
+  right: 1px;
+}
+
+#special-tiles{
+  height: 250px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid;
+  overflow: auto;
+
+}
+
+#category-beef{
+  text-align: center;
+  background-color: red;
+  width: 100%;
+  font-size: 1.5rem;
+  color: white;
+
+}
+#category-chiken{
+  text-align: center;
+  background-color: yellow;
+  width: 100%;
+  font-size: 1.5rem;
+  color: white;
+}
+#category-sushi{
+  text-align: center;
+  background-color: blue;
+  width: 100%;
+  font-size: 1.5rem;
+  color: white;
+}
